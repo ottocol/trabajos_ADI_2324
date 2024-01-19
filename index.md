@@ -1,13 +1,3 @@
-## Procedimiento para las votaciones
-
-- El plazo de votaciones concluye el jueves 25 de enero a las 23:59
-- Las votaciones hay que enviarlas mediante tutoría de uno de los componentes del grupo
-- Cada grupo puede asignar 10 puntos a los trabajos del resto de grupos, solo se puede puntuar con 2 puntos, 1 punto o no asignar. 
-- Cada grupo que vote al resto tiene 0,5 puntos más en el trabajo
-- No se pueden dejar puntos por asignar, tenéis que repartir los 10
-- No se publicarán las notas de los trabajos hasta el final para no influir en las votaciones
-
-
 ## Listado de los trabajos
 
 > Por favor revisad que los enlaces de vuestro trabajo son correctos para que puedan acceder vuestr@s compañer@s y que esté puesto todo el material que habéis enviado	
