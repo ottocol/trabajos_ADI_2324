@@ -14,7 +14,7 @@
 ### Aurora Andreu Mateo, Juan Fernando Gaviria Álvarez y Adrián Federico Bartel Prieto
 
 - [Documento](tutorial_react/Tutorial_react.pdf)
-- [Diapositivas](tutorial_react/Tutorial_react_resumen.pdf)
+- [Diapositivas](tutorial_react/Tutorial_React_resumen.pdf)
 
 ## Svelte
 ### Javier Rodríguez Peréz, Alejandro Galán Peréz, Carlos Robles Maranchon y Erik Avagyan.
